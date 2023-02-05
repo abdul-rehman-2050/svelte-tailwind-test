@@ -1,0 +1,1 @@
+<h1>Simple Hello Route</h1>
